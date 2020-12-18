@@ -1,1 +1,1 @@
-https://api.skinchanger.net/index.php
+https://api.skinchangr.net/index.php
