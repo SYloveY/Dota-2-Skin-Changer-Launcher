@@ -1,1 +1,1 @@
-https://dota2changer.com/lib/auth_program_api.php
+https://www.dota2skinchanger.com/program/auth.php
